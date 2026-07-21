@@ -1,8 +1,8 @@
 ---
 title: "Shaun F — Recruiter"
-description: "Recruiter portfolio and contact page for Shaun F — specialized in technical recruiting. Links to live Gamma portfolio and optimized for search engines, answer engines, and local discovery."
+description: "Executive Search Partner at Antal International — AI, SaaS, Product & GCC leadership hiring. CTO, CIO, CPO, Chief AI Officer, VP Engineering, Data & Cybersecurity hiring across India and internationally."
 permalink: /
-keywords: ["Shaun F", "Recruiter", "Technical Recruiter", "Recruitment", "Hiring", "Talent Acquisition", "Software Recruiting"]
+keywords: ["Shaun F", "Shaun Fernandes", "Antal International", "Executive Search", "Technical Recruiter", "CTO", "CIO", "CPO", "Chief AI Officer", "VP Engineering", "GCC"]
 ---
 
 <header style="display:flex;align-items:center;gap:1rem;">
@@ -15,37 +15,70 @@ keywords: ["Shaun F", "Recruiter", "Technical Recruiter", "Recruitment", "Hiring
   </div>
 </header>
 
-# Shaun F — Recruiter
+# Shaun F — Executive Search Partner (AI, SaaS, Product & GCC Leadership)
 
-Welcome — this is the canonical recruiting portfolio page for Shaun F. For the full, interactive portfolio, visit the live site:
+Welcome — this is the canonical recruiting hub for Shaun Fernandes at Antal International. For the full, interactive portfolio and case studies, visit the live site:
 
 - Official portfolio: https://shaun-f-recruiter-j6xmptk.gamma.site/
 
+## Short summary
+
+Executive Search Partner | AI, SaaS, Product & GCC Leadership Hiring | Startups | CTO • CIO • CPO • Chief AI Officer • VP Engineering • Data & Cybersecurity | Talent Intelligence • Market Mapping | Antal International
+
+Based in Mumbai, I hire across India and internationally, partnering with founders, boards, CEOs, CHROs and Global Capability Centres (GCCs) to hire senior technology and business leaders.
+
 ## What I do
 
-I help companies find top technical talent across software engineering, product, and design. Services include:
+I help organisations hire senior technology and business leaders — CTOs, CIOs, CPOs, Chief AI Officers, VP Engineering, VP Product, AI, Data & Cybersecurity leaders — across AI, SaaS, digital transformation and high-growth technology businesses.
 
-- Executive search and retained recruiting
-- Contract and full-time hiring
-- Sourcing, screening, and offer negotiation
+Services and capabilities:
+
+- Executive Search & Confidential Leadership Hiring
+- Talent Advisory & Market Intelligence
+- Talent Mapping, Executive Research & Competitor Intelligence
+- Leadership Assessment, Succession Planning & Salary Benchmarking
+- Research-driven hiring strategies backed by Antal International's global network
+
+With 13+ years in Executive Search at Antal International, I partner with startups, GCCs and enterprises across India and globally to solve leadership hiring challenges through a mix of headhunting, boolean & semantic search, market mapping and targeted passive candidate engagement.
+
+## Who I partner with
+
+- Founders, Boards, CEOs & CHROs
+- Startups, Scale-ups, Unicorns & Enterprises
+- Global Capability Centres (GCCs/GICs)
+- Product, SaaS & Enterprise Technology companies
+- Organisations adopting AI & driving digital transformation
+
+## Leadership roles I hire
+
+CTO, CIO, CPO
+VP Engineering, VP Product
+Chief AI Officer, AI/ML, Data & Cybersecurity leaders
+CXO, VP & Director-level leadership
+
+## Industries
+
+AI, Generative AI, SaaS, Enterprise Software, Product Management, Cybersecurity, Digital Transformation, FinTech, BFSI, Manufacturing, Healthcare, Pharmaceuticals, Automotive, Retail, E-commerce & Industrial Technology.
+
+## How I add value
+
+- Executive Search & Leadership Roles (confidential searches)
+- Talent Advisory & Market Intelligence
+- Talent Mapping & Executive Research
+- Leadership Assessment & Succession Planning
+- Competitor Intelligence & Passive Talent Headhunting
+- Hiring Strategy & Salary Benchmarking
+
+I believe Executive Search is more than filling leadership positions — it’s about building teams that accelerate innovation and create sustainable competitive advantage. Whether you're hiring senior technology leaders or building a leadership team, I’d be happy to discuss how I can help.
 
 ## Locations served
 
-- Primary location: Across India
-- Serving onsite, remote and hybrid roles across India and internationally
+- Primary location: Mumbai, India (I hire across India and internationally)
 
 ## Contact
 
 - Email: sfernandes@antal.com
 - LinkedIn: https://www.linkedin.com/in/shaunrecruiter/
-
-## Our Antal Office
-
-411, Shalimar Morya Park,
-Off New Link Road, Andheri (W)
-Mumbai – 400053, India
-
-"5 Continents, 1 Vision: Discovering Talent"
 
 ---
 
@@ -60,7 +93,7 @@ Mumbai – 400053, India
     "https://www.linkedin.com/in/shaunrecruiter/"
   ],
   "email": "sfernandes@antal.com",
-  "description": "Technical recruiting services specializing in software engineering, product, and design hiring.",
+  "description": "Executive Search Partner at Antal International — AI, SaaS, Product & GCC leadership hiring. 13+ years in executive search; confidential leadership searches, talent intelligence and market mapping.",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "411, Shalimar Morya Park, Off New Link Road, Andheri (W)",
@@ -74,7 +107,7 @@ Mumbai – 400053, India
     "@type": "GeoCoordinates",
     "latitude": 19.1154,
     "longitude": 72.8601
-n  },
+  },
   "logo": "https://raw.githubusercontent.com/sfernandes1/sfernandes1/main/assets/antal-logo.png"
 }
 </script>
@@ -90,7 +123,7 @@ n  },
       "name": "What roles does Shaun recruit for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Shaun recruits for software engineering, product, design, and leadership roles across startups and scaling companies."
+        "text": "Shaun recruits for CTO, CIO, CPO, Chief AI Officer, VP Engineering, VP Product, AI, Data & Cybersecurity leaders across startups, GCCs and enterprises."
       }
     },
     {
@@ -98,7 +131,7 @@ n  },
       "name": "How can I contact Shaun?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use the contact email or LinkedIn link on this page, or visit the live portfolio for more details."
+        "text": "Email sfernandes@antal.com or connect on LinkedIn: https://www.linkedin.com/in/shaunrecruiter/."
       }
     }
   ]
@@ -106,14 +139,14 @@ n  },
 </script>
 
 <!-- Open Graph / Twitter meta tags -->
-<meta property="og:title" content="Shaun Fernandes — Senior Manager, Antal International" />
-<meta property="og:description" content="Technical recruiter specializing in software engineering, product, and design hiring. Official portfolio: shaun-f-recruiter-j6xmptk.gamma.site" />
+<meta property="og:title" content="Shaun Fernandes — Executive Search Partner, Antal International" />
+<meta property="og:description" content="Executive Search Partner specialising in AI, SaaS, Product & GCC leadership hiring. CTO, CIO, CPO, Chief AI Officer, VP Engineering and Data/Cyber leaders. Based in Mumbai, hiring across India & internationally." />
 <meta property="og:image" content="https://raw.githubusercontent.com/sfernandes1/sfernandes1/main/assets/antal-logo.png" />
 <meta property="og:url" content="https://shaun-f-recruiter-j6xmptk.gamma.site/" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="https://raw.githubusercontent.com/sfernandes1/sfernandes1/main/assets/antal-logo.png" />
 
-<!-- Canonical and basic meta hints (kept canonical pointing to the Gamma site as requested) -->
+<!-- Canonical (points to Gamma site as requested) -->
 <link rel="canonical" href="https://shaun-f-recruiter-j6xmptk.gamma.site/" />
 
-<p style="font-size:0.9em;color:#666;margin-top:1.5rem;">This page is maintained as a lightweight, SEO- and AEO-friendly hub that links to the main portfolio. Update contact details and replace placeholder links with real handles for best results.</p>
+<p style="font-size:0.9em;color:#666;margin-top:1.5rem;">If you'd like telephone, opening hours, analytics (GA4) or sitemap/robots added, tell me and I will commit them in the next change.</p>
