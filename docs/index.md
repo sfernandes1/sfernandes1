@@ -21,13 +21,13 @@ I help companies find top technical talent across software engineering, product,
 
 ## Locations served
 
-- Primary location: San Francisco Bay Area, CA, United States
-- Serving remote and hybrid roles across the United States and internationally
+- Primary location: Across India
+- Serving Onsite, remote and hybrid roles across the India and internationally
 
 ## Contact
 
-- Email: hello@shaunf.example (replace with real email)
-- LinkedIn: https://www.linkedin.com/in/shaun-f (replace with real URL)
+- Email: sfernandes@antal.com
+- LinkedIn: https://www.linkedin.com/in/shaunrecruiter/
 
 ---
 
