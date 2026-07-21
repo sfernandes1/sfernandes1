@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sfernandes1.github.io/sfernandes1/sitemap.xml
