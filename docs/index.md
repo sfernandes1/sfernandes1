@@ -22,7 +22,7 @@ I help companies find top technical talent across software engineering, product,
 ## Locations served
 
 - Primary location: Across India
-- Serving Onsite, remote and hybrid roles across the India and internationally
+- Serving onsite, remote and hybrid roles across India and internationally
 
 ## Contact
 
@@ -45,7 +45,7 @@ I help companies find top technical talent across software engineering, product,
   "description": "Technical recruiter specializing in software engineering, product, and design hiring.",
   "address": {
     "@type": "PostalAddress",
-    "addressLocality": "Indiaia",
+    "addressLocality": "India",
     "addressRegion": "",
     "addressCountry": "IN"
   },
