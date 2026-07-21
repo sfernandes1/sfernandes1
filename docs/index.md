@@ -31,31 +31,28 @@ I help companies find top technical talent across software engineering, product,
 
 ---
 
-<!-- Structured data for SEO / AEO / GEO -->
+<!-- Structured data for SEO / AEO / GEO: LocalBusiness (Antal International) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Shaun F",
+  "@type": "LocalBusiness",
+  "name": "Antal International",
   "url": "https://shaun-f-recruiter-j6xmptk.gamma.site/",
   "sameAs": [
-    "https://www.linkedin.com/in/shaun-f"
+    "https://www.linkedin.com/in/shaunrecruiter/"
   ],
-  "jobTitle": "Technical Recruiter",
-  "description": "Technical recruiter specializing in software engineering, product, and design hiring.",
+  "email": "sfernandes@antal.com",
+  "description": "Technical recruiting services specializing in software engineering, product, and design hiring.",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "India",
     "addressRegion": "",
     "addressCountry": "IN"
   },
-  "hasPOS": {
-    "@type": "Place",
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 20.5937,
-      "longitude": 78.9629
-    }
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 20.5937,
+    "longitude": 78.9629
   }
 }
 </script>
@@ -86,7 +83,7 @@ I help companies find top technical talent across software engineering, product,
 }
 </script>
 
-<!-- Canonical and basic meta hints (some Jekyll layouts will use front-matter instead) -->
+<!-- Canonical and basic meta hints (kept canonical pointing to the Gamma site as requested) -->
 <link rel="canonical" href="https://shaun-f-recruiter-j6xmptk.gamma.site/" />
 
 <p style="font-size:0.9em;color:#666;margin-top:1.5rem;">This page is maintained as a lightweight, SEO- and AEO-friendly hub that links to the main portfolio. Update contact details and replace placeholder links with real handles for best results.</p>
