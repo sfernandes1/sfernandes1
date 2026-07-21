@@ -45,16 +45,16 @@ I help companies find top technical talent across software engineering, product,
   "description": "Technical recruiter specializing in software engineering, product, and design hiring.",
   "address": {
     "@type": "PostalAddress",
-    "addressLocality": "San Francisco",
-    "addressRegion": "CA",
-    "addressCountry": "US"
+    "addressLocality": "Indiaia",
+    "addressRegion": "",
+    "addressCountry": "IN"
   },
   "hasPOS": {
     "@type": "Place",
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 37.7749,
-      "longitude": -122.4194
+      "latitude": 20.5937,
+      "longitude": 78.9629
     }
   }
 }
